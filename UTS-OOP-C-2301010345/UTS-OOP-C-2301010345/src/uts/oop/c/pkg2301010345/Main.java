@@ -1,14 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package uts.oop.c.pkg2301010345;
 
 import java.util.Scanner;
 
 /**
  *
- * @author PC-A-30
+ * @author Putri Pratiwi
+ TGL 16 MEI 2025
  */
 
 
